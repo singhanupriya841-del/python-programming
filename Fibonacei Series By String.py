@@ -7,6 +7,6 @@ for i in range (0,n-2):
     L.append(T)
     f=s
     s=T
-    print(L)
+ print(L)
     
     

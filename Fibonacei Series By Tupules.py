@@ -7,4 +7,4 @@ for i in range (0,n-2):
     A=A+(T,)
     f=s
     s=T
-    print(A)
+print(A)
